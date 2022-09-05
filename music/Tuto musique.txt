@@ -1,0 +1,4 @@
+Bonjour bienvenue dans le tuto musique loading screen par calendeur1 ! 
+Si tu chercher pour changer et mettre ta propre musique sur ton loading screen il te suffira juste de télécharger le son en version [ MP3 ] 
+de le rename [ music.mp3 ] et de le remplacer par celui de base.
+Pour tout problème ou question merci de contacter calendeur1#7501 ou de rejoindre le discord https://discord.gg/G98xNKVA

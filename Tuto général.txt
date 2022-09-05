@@ -1,0 +1,7 @@
+Bonjour et bienvenue sur le loading screen de Calendeur1#7501 
+tout et expliqué ( comment mettre la musique comment changer le fond etc) 
+je vous met le menu ici 
+Tuto fond.txt = dans le dossier CSS
+Tuto Musique.txt = dans le dossier musique
+Tuto Image.txt = dans le dossier img
+Pour tous problème ou question merci de contacter calendeur1#7501 ou de rejoindre le discord https://discord.gg/G98xNKVA

@@ -1,0 +1,4 @@
+Bonjour bienvenue dans le tuto image !
+pour changer le logo de votre loading screen il vous suffira simplement de remplacer le logo.png par votre logo
+pour le background c'est dans le dossier css et regarder le [ Tuto fond.txt ]
+Pour tous problème ou question merci de contacter calendeur1#7501 ou de rejoindre le discord https://discord.gg/G98xNKVA

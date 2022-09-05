@@ -1,0 +1,3 @@
+Bonjour bienvenue dans le css la ou ont va changer le fond du loading screen ! 
+Pour changer le loading screen il vous suffira dans changer le lien à la ligne 15 [ url(votrelien.png) ]
+Pour tous problème ou question merci de contacter calendeur1#7501 ou de rejoindre le discord https://discord.gg/G98xNKVA
